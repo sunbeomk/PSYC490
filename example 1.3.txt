@@ -1,0 +1,31 @@
+Subject	Expression	Leniency Score
+1	smile	7
+2	smile	
+3	smile	6
+4	smile	4.5
+5	smile	3.5
+6	smile	4
+7	smile	6
+8	smile	9
+9	smile	3.5
+10	smile	4.5
+11	smile	7
+12	smile	5
+13	smile	5
+14	smile	7.5
+15	smile	6.5
+16	smile	2
+17	neutral	4
+18	neutral	4
+19	neutral	3
+20	neutral	6
+21	neutral	4.5
+22	neutral	2
+23	neutral	6
+24	neutral	3
+25	neutral	3
+26	neutral	4.5
+27	neutral	8
+28	neutral	4
+29	neutral	5
+30	neutral	2.5
