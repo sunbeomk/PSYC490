@@ -1,4 +1,4 @@
-Subject	Expression	Leniency Score
+Subject	Expression	Leniency.Score
 1	smile	7
 2	smile	
 3	smile	6
