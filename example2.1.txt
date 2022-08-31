@@ -1,6 +1,6 @@
 Subject	Expression	LeniencyScore
 1	smile	7
-2	smile	
+2	smile	NA
 3	smile	6
 4	smile	4.5
 5	smile	3.5
